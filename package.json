@@ -1,0 +1,24 @@
+{
+  "name": "banco-web-tests",
+  "version": "1.0.0",
+  "description": "Testing a Web Bank Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldinaldolustosa/banco-web-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eldinaldolustosa/banco-web-tests/issues"
+  },
+  "homepage": "https://github.com/eldinaldolustosa/banco-web-tests#readme",
+  "devDependencies": {
+    "cypress": "^15.14.0"
+  }
+}
