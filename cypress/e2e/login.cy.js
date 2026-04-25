@@ -2,7 +2,7 @@ describe('Login', () => {
   beforeEach(() => {
     //Arrange
     //Add hoock to visit the page before each test  
-    cy.visit(Cypress.env('URL'))
+    cy.visit('/')
     //cy.env('URL', Cypress.env('URL'))
     cy.screenshot('after-visit-page')
   })
