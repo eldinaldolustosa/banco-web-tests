@@ -153,7 +153,7 @@ Initially, tests were written with direct code, leading to repetition. Over time
 - Reuse across multiple tests.
 
 For example, the `cy.loginValidCredential()` command replaced several repeated lines of code, evolving from hardcoded tests to a more modular approach.
-
+ 
 ## Contact
 
 For more information or professional opportunities, connect via LinkedIn: [https://www.linkedin.com/in/eldinaldolustosa/](https://www.linkedin.com/in/eldinaldolustosa/)
