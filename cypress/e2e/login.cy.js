@@ -1,8 +1,8 @@
 describe('Login', () => {
   beforeEach(() => {
     //Arrange
-    // Hook para visitar a página de login antes de cada teste
-      cy.visit('http://localhost:4000/')    
+    //Add hoock to visit the page before each test  
+    cy.visit('http://localhost:4000/')
   })
     it('Login com dados validos devem permitir entrada no sistema', () => {
       //Act
