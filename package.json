@@ -4,7 +4,9 @@
   "description": "Testing a Web Bank Application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress run",
+    "cy:open": "cypress open",
+    "cy:headed": "cypress run --headed"
   },
   "repository": {
     "type": "git",
