@@ -1,3 +1,4 @@
-#cypress
+# cypress
 cypress/screenshots
 cypress/videos
+cypress/reports
