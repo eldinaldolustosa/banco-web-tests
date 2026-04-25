@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/eldinaldolustosa/banco-web-tests#readme",
   "devDependencies": {
-    "cypress": "^15.14.0"
+    "cypress": "^15.14.0",
+    "cypress-mochawesome-reporter": "^4.0.2"
   }
 }
